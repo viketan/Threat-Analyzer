@@ -1,5 +1,6 @@
 **To install required libraries:** `pip install -r requirements.txt`
-**To run the strcript:**`steamlit run app.py`
+
+**To run the strcript:** `steamlit run app.py`
 
 **Web Page**
 ![Local Image](Imgs/Threat%20Analyzer%20User%20Input.pngThreat Analyzer AI Response.png)
