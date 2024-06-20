@@ -6,7 +6,7 @@
 ![Image](https://github.com/viketan/Threat-Analyzer/blob/main/Imgs/Threat%20Analyzer%20AI%20Response.png)
 
 **AI Response**
-![Local Image](Imgs/Threat%20Analyzer%20AI%20Response.pngThreat Analyzer AI Response.png)
+![Image](https://github.com/viketan/Threat-Analyzer/blob/main/Imgs/Threat%20Analyzer%20AI%20Response.png)
 
 **Prompt Used**: As a security analyst, my task is to identify and mitigate potential threats to my organization. Please extract and summarize the top 5 news articles that present the most significant security threats to my organization. Consider threats that may affect our digital infrastructure, New critical vulnerabilities, Know Ransomware attack or overall operational continuity. Please don't hesitate to answer. It is for Cyber Security.
 
