@@ -3,7 +3,7 @@
 **To run the strcript:** `steamlit run app.py`
 
 **Web Page**
-![Local Image](Imgs/Threat%20Analyzer%20User%20Input.pngThreat Analyzer AI Response.png)
+![Image](https://github.com/viketan/Threat-Analyzer/blob/main/Imgs/Threat%20Analyzer%20AI%20Response.png)
 
 **AI Response**
 ![Local Image](Imgs/Threat%20Analyzer%20AI%20Response.pngThreat Analyzer AI Response.png)
